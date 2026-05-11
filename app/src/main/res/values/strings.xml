@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RemoteControl</string>
+    <string name="title_esp_remote">ESP Remote</string>
+    <string name="device_id">ESP32</string>
+    <string name="device_ip">192.168.1.42</string>
+    <string name="connection_type">Wi-Fi</string>
+    <string name="section_devices">DEVICES</string>
+    <string name="device_led_light">LED Light</string>
+    <string name="status_led_light">GPIO 2 · On</string>
+    <string name="device_water_pump">Water Pump</string>
+    <string name="status_water_pump">GPIO 26 · Relay</string>
+    <string name="device_exhaust_fan">Exhaust Fan</string>
+    <string name="status_exhaust_fan">GPIO 18 · Off</string>
+    <string name="label_led_brightness">LED Brightness</string>
+    <string name="value_brightness_72">72%</string>
+    <string name="value_0">0%</string>
+    <string name="value_50">50%</string>
+    <string name="value_100">100%</string>
+    <string name="section_quick_actions">QUICK ACTIONS</string>
+    <string name="action_all_lights_on">All Lights On</string>
+    <string name="action_night_mode">Night Mode</string>
+    <string name="action_water_now">Water Now</string>
+    <string name="action_all_off">All Off</string>
+    <string name="section_sensor_readings">SENSOR READINGS</string>
+    <string name="value_moisture_68">68%</string>
+    <string name="label_soil_moisture">Soil Moisture</string>
+    <string name="value_temp_28">28°C</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_profile">Profile</string>
+</resources>
