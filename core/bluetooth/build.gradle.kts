@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "in.rramprasad.remotecontrol.core.bluetooth"
+    namespace = "in.rramprasad.superapp.core.bluetooth"
     compileSdk = 37
 
     defaultConfig {

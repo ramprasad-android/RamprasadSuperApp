@@ -22,8 +22,14 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RemoteControl"
+rootProject.name = "RamprasadSuperApp"
 include(":app")
 include(":core:bluetooth")
 include(":core:wifi")
- 
+include(":core:navigation")
+include(":features:dashboard")
+include(":features:home")
+include(":features:devices")
+include(":features:logs")
+include(":features:profile")
+include(":features:notifications")

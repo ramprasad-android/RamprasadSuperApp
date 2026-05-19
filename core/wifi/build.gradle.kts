@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "in.rramprasad.remotecontrol.core.wifi"
+    namespace = "in.rramprasad.superapp.core.wifi"
     compileSdk = 37
 
     defaultConfig {

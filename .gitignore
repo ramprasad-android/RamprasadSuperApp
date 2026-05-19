@@ -17,3 +17,10 @@ local.properties
 # Project exclude paths
 /core/bluetooth/build/
 /core/wifi/build/
+/core/navigation/build
+/features/dashboard/build
+/features/devices/build
+/features/home/build
+/features/logs/build
+/features/notifications/build
+/features/profile/build

@@ -12,7 +12,15 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/core" />
             <option value="$PROJECT_DIR$/core/bluetooth" />
+            <option value="$PROJECT_DIR$/core/navigation" />
             <option value="$PROJECT_DIR$/core/wifi" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/dashboard" />
+            <option value="$PROJECT_DIR$/features/devices" />
+            <option value="$PROJECT_DIR$/features/home" />
+            <option value="$PROJECT_DIR$/features/logs" />
+            <option value="$PROJECT_DIR$/features/notifications" />
+            <option value="$PROJECT_DIR$/features/profile" />
           </set>
         </option>
       </GradleProjectSettings>
