@@ -23,4 +23,4 @@ local.properties
 /features/home/build
 /features/logs/build
 /features/notifications/build
-/features/profile/build
+/features/profile/buildtrace_processor

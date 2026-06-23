@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/features/logs" />
             <option value="$PROJECT_DIR$/features/notifications" />
             <option value="$PROJECT_DIR$/features/profile" />
+            <option value="$PROJECT_DIR$/retailstore" />
           </set>
         </option>
       </GradleProjectSettings>
